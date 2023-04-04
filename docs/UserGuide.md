@@ -4,9 +4,9 @@ title: User Guide
 ---
 
 ## Table of contents
-1. [ModCheck](##1-modcheck)
-2. [Quick Start](##2-quick-start)
-3. [Features](##3-features)
+1. [ModCheck](#1-modcheck)
+2. [Quick Start](#2-quick-start)
+3. [Features](#3-features)
 
 --------------------------------------------------------------------------------------------------------------------
 ## 1. ModCheck
