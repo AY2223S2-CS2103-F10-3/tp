@@ -3,14 +3,18 @@ layout: page
 title: User Guide
 ---
 
-MODCheck is a **desktop app for managing contacts, optimized for use via a Command Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, MODCheck can get your contact management tasks done faster than traditional GUI apps.
+## Table of contents
+1. [ModCheck](##1-modcheck)
+2. [Quick Start](##2-quick-start)
+3. [Features](##3-features)
 
-* Table of Contents
-{:toc}
+--------------------------------------------------------------------------------------------------------------------
+## 1. ModCheck
+MODCheck is a **desktop app for managing contacts, optimized for use via a Command Line Interface** (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, MODCheck can get your contact management tasks done faster than traditional GUI apps.
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Quick start
+## 2. Quick start
 
 1. Ensure you have Java `11` or above installed in your Computer.
 2. The first GUI you will encounter is the `ModCheck Login`.
@@ -47,7 +51,7 @@ MODCheck is a **desktop app for managing contacts, optimized for use via a Comma
 
    * `list` : Lists all contacts.
 
-   * `add n/John Doe p/98765432 e/johnd@example.com d/John street, block 123, #01-01` : Adds a contact named `John Doe` to ModCheck.
+   * `add n/John Doe p/98765432 e/johnd@example.com d/Friendly` : Adds a contact named `John Doe` to ModCheck.
 
    * `delete 3` : Deletes the 3rd contact shown in the current list.
 
@@ -59,7 +63,7 @@ MODCheck is a **desktop app for managing contacts, optimized for use via a Comma
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Features
+## 3. Features
 
 <div markdown="block" class="alert alert-info">
 
